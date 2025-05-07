@@ -88,7 +88,7 @@
         <h1>👋 Hi! I'm F Lalchawiliana</h1>
         <img src="your-photo.jpg" alt="Portrait of F Lalchawiliana" class="profile-img">
         <h2>Professional Overthinker • Part-time Jedi • Full-time Snack Connoisseur</h2>
-    </header>
+    </header>hvv
 
     <section>
         <h2>🦸 My Superpowers</h2>
